@@ -3,7 +3,7 @@
 void main()
 {
     float a,b,c,d;
-    printf("Nhap 4 canh a,b,c,d:");
+    printf("Nhap 4 canh day lon, day be, 2 canh ben:");
     scanf("%f%f%f%f",&a,&b,&c,&d);
     if(a<=b) printf("NHAP SAI");
     else{
